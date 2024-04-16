@@ -13,6 +13,7 @@ function ver_simple(path) -> bool
 '''
 def ver_simple(path)->bool:
     '''
+    Simplified version
     Returns True if the json file contains a resource field with a value of "*" otherwise returns False
 
     Parameters
